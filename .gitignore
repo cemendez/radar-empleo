@@ -1,0 +1,4 @@
+node_modules/
+.env
+# Salida local de cada corrida. En la v0.3 decidimos si se versiona (como archive/ en radar-tech).
+data/

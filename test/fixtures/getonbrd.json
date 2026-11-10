@@ -1,0 +1,307 @@
+{
+  "data": [
+    {
+      "id": "semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago",
+      "type": "job",
+      "attributes": {
+        "title": "Semi Senior Full-Stack Java Developer (QA & AI) Bilingüe",
+        "description_headline": "Skills excluyentes",
+        "functions_headline": "Funciones del cargo",
+        "benefits_headline": "Beneficios",
+        "desirable_headline": "Skills deseables",
+        "remote": false,
+        "remote_modality": "hybrid",
+        "remote_zone": null,
+        "countries": [
+          "Chile"
+        ],
+        "lang": "lang_not_specified",
+        "category_name": "Programming",
+        "min_salary": 2800,
+        "max_salary": 3000,
+        "published_at": 1794227297,
+        "response_time_in_days": {
+          "min": null,
+          "max": null
+        },
+        "applications_count": 47,
+        "location_regions": {
+          "data": []
+        },
+        "location_tenants": {
+          "data": []
+        },
+        "location_cities": {
+          "data": [
+            {
+              "id": 1,
+              "type": "location_city"
+            }
+          ]
+        },
+        "modality": {
+          "data": {
+            "id": 1,
+            "type": "modality"
+          }
+        },
+        "seniority": {
+          "data": {
+            "id": "3",
+            "type": "seniority",
+            "attributes": {
+              "name": "Semi Senior",
+              "locale_key": "semi_senior"
+            }
+          }
+        },
+        "tags": {
+          "data": [
+            {
+              "id": "java",
+              "type": "tag",
+              "attributes": {
+                "name": "Java"
+              }
+            },
+            {
+              "id": "angularjs",
+              "type": "tag",
+              "attributes": {
+                "name": "Angular"
+              }
+            },
+            {
+              "id": "spring-boot",
+              "type": "tag",
+              "attributes": {
+                "name": "Spring Boot"
+              }
+            },
+            {
+              "id": "integration-testing",
+              "type": "tag",
+              "attributes": {
+                "name": "Integration Testing"
+              }
+            }
+          ]
+        },
+        "company": {
+          "data": {
+            "id": "23people-cl",
+            "type": "company",
+            "attributes": {
+              "name": "23people"
+            }
+          }
+        }
+      },
+      "links": {
+        "public_url": "https://www.getonbrd.com/jobs/semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago"
+      }
+    },
+    {
+      "id": "founding-gtm-engineer-hostop-remote",
+      "type": "job",
+      "attributes": {
+        "title": "Founding GTM Engineer",
+        "description_headline": "Qualifications and requirements",
+        "functions_headline": "Job functions",
+        "benefits_headline": "Conditions",
+        "desirable_headline": "Desirable skills",
+        "remote": true,
+        "remote_modality": "fully_remote",
+        "remote_zone": null,
+        "countries": [
+          "Remote"
+        ],
+        "lang": "en",
+        "category_name": "Programming",
+        "min_salary": 4500,
+        "max_salary": 6000,
+        "published_at": 1793720805,
+        "response_time_in_days": {
+          "min": null,
+          "max": null
+        },
+        "applications_count": 42,
+        "location_regions": {
+          "data": []
+        },
+        "location_tenants": {
+          "data": []
+        },
+        "location_cities": {
+          "data": []
+        },
+        "modality": {
+          "data": {
+            "id": 1,
+            "type": "modality"
+          }
+        },
+        "seniority": {
+          "data": {
+            "id": "4",
+            "type": "seniority",
+            "attributes": {
+              "name": "Senior",
+              "locale_key": "senior"
+            }
+          }
+        },
+        "tags": {
+          "data": [
+            {
+              "id": "api-integration",
+              "type": "tag",
+              "attributes": {
+                "name": "API Integration"
+              }
+            },
+            {
+              "id": "n8n",
+              "type": "tag",
+              "attributes": {
+                "name": "N8n"
+              }
+            },
+            {
+              "id": "linkedin-sales-navigator",
+              "type": "tag",
+              "attributes": {
+                "name": "LinkedIn Sales Navigator"
+              }
+            },
+            {
+              "id": "b2b-saas",
+              "type": "tag",
+              "attributes": {
+                "name": "B2B SaaS"
+              }
+            }
+          ]
+        },
+        "company": {
+          "data": {
+            "id": "hostop",
+            "type": "company",
+            "attributes": {
+              "name": "Hostop"
+            }
+          }
+        }
+      },
+      "links": {
+        "public_url": "https://www.getonbrd.com/jobs/founding-gtm-engineer-hostop-remote"
+      }
+    },
+    {
+      "id": "desarrollador-a-full-stack-financia-capital-santiago",
+      "type": "job",
+      "attributes": {
+        "title": "Desarrollador/a Full-Stack",
+        "description_headline": "Requerimientos del cargo",
+        "functions_headline": "Funciones del cargo",
+        "benefits_headline": "",
+        "desirable_headline": "Opcionales",
+        "remote": false,
+        "remote_modality": "no_remote",
+        "remote_zone": null,
+        "countries": [
+          "Chile"
+        ],
+        "lang": "lang_not_specified",
+        "category_name": "Programming",
+        "min_salary": 1700,
+        "max_salary": 2000,
+        "published_at": 1793133968,
+        "response_time_in_days": {
+          "min": null,
+          "max": null
+        },
+        "applications_count": 108,
+        "location_regions": {
+          "data": []
+        },
+        "location_tenants": {
+          "data": []
+        },
+        "location_cities": {
+          "data": [
+            {
+              "id": 1,
+              "type": "location_city"
+            }
+          ]
+        },
+        "modality": {
+          "data": {
+            "id": 1,
+            "type": "modality"
+          }
+        },
+        "seniority": {
+          "data": {
+            "id": "3",
+            "type": "seniority",
+            "attributes": {
+              "name": "Semi Senior",
+              "locale_key": "semi_senior"
+            }
+          }
+        },
+        "tags": {
+          "data": [
+            {
+              "id": "php",
+              "type": "tag",
+              "attributes": {
+                "name": "PHP"
+              }
+            },
+            {
+              "id": "git",
+              "type": "tag",
+              "attributes": {
+                "name": "Git"
+              }
+            },
+            {
+              "id": "sql",
+              "type": "tag",
+              "attributes": {
+                "name": "SQL"
+              }
+            },
+            {
+              "id": "laravel",
+              "type": "tag",
+              "attributes": {
+                "name": "Laravel"
+              }
+            }
+          ]
+        },
+        "company": {
+          "data": {
+            "id": "financia-capital-cl",
+            "type": "company",
+            "attributes": {
+              "name": "Financia Capital"
+            }
+          }
+        }
+      },
+      "links": {
+        "public_url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-financia-capital-santiago"
+      }
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "per_page": 3,
+    "total_pages": 102
+  }
+}

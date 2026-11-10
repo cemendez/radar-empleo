@@ -1,0 +1,14 @@
+allowBuilds:
+  esbuild: true
+
+# Protección contra ataques a la cadena de suministro (supply chain):
+# pnpm no instala versiones publicadas hace menos de 3 días (en minutos).
+# Si alguien sube una versión maliciosa de una dependencia, normalmente se
+# detecta y se retira en ese lapso. Ver docs/PROGRESO.md → "Seguridad de dependencias".
+minimumReleaseAge: 4320
+
+# pnpm 10 no ejecuta scripts de instalación (postinstall) de las dependencias
+# a menos que los autorices aquí: un postinstall malicioso es otra vía de ataque.
+# esbuild (lo usan tsx y vitest) necesita el suyo para dejar listo su binario.
+onlyBuiltDependencies:
+  - esbuild
